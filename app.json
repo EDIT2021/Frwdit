@@ -9,16 +9,16 @@
     "forward",
     "bot"
   ],
-  "success_url": "https://t.me/DForDarkAngel",
+  "success_url": "https://t.me/hsk_the_editor",
   "website": "https://github.com/Jijinr/Frwdit",
   "repository": "https://github.com/Jijinr/Frwdit",
   "env": {
     "API_ID": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://t.me/hsk_the_editor or @hsk_the_editor",
       "value": ""
     },
     "API_HASH": {
-      "description": "Get this value from https://my.telegram.org or @UseTGXBot",
+      "description": "Get this value from https://my.telegram.org or @BotFather",
       "value": ""
     },
     "BOT_TOKEN": {
